@@ -26,7 +26,7 @@ section {
 
 .tablero {
   border-radius: 50px;
-  background: linear-gradient(to right, #243B55, #141E30);
+  /* background: linear-gradient(to right, #243B55, #141E30); */
   box-shadow: 20px 20px 60px #172337,
     -20px -20px 60px #243B55;
   margin: auto;
